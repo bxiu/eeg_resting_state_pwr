@@ -1,0 +1,1 @@
+name files "X##X_no_spikes.set" after removing big spikes, and save in this folder

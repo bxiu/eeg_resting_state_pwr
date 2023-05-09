@@ -1,0 +1,1 @@
+name files "X##X_no_artifacts.set" after removing ICA components, and save in this folder
